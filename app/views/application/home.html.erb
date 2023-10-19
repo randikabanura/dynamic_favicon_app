@@ -1,0 +1,9 @@
+<h1>Welcome to Dynamic Favicon App</h1>
+
+<div data-controller="hello" data-hello-favicons-value='["<%= asset_path('favicon-1.png') %>", "<%= asset_path('favicon-2.png') %>", "<%= asset_path('favicon-3.png') %>", "<%= asset_path('favicon-4.png') %>"]'>
+  <button data-action="click->hello#favicon">Change Favicon</button>
+</div>
+
+<div>
+  <%= button_to "Posts", posts_path, method: :get %>
+</div>
