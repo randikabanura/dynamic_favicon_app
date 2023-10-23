@@ -1,24 +1,21 @@
-# README
+# Dynamic Favicon App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Do you want to dynamically change the favicons in a Rails application?
 
-Things you may want to cover:
+Here is how to do it. In a new tech article in Medium, I discuss ways to achieve this. One of which is Page wise favicons where you can use a Ruby module (Rails helper) to achieve that. Another one is action-based and event-based favicon changes that you can do using Stimulus. Both of these approaches are thoroughly discussed in the article.
 
-* Ruby version
+Please check out it for more details: https://banurarandika.medium.com/dynamically-changing-the-favicon-in-rails-60c630244d52
 
-* System dependencies
+## Author
 
-* Configuration
+Name: [Banura Randika Perera](https://github.com/randikabanura) <br/>
+Linkedin: [randika-banura](https://www.linkedin.com/in/randika-banura/) <br/>
+Email: [randika.banura@gamil.com](mailto:randika.banura@gamil.com) <br/>
 
-* Database creation
+## Show your support
 
-* Database initialization
+Please ⭐️ this repository if this project helped you!
 
-* How to run the test suite
+## License
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+See [LICENSE](LICENSE) © [randikabanura](https://github.com/randikabanura/)
